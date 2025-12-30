@@ -1,0 +1,11 @@
+customer_id,name,age,gender,join_date,last_purchase,total_spend,country,email,notes
+001,Siti A,17,F,2021/13/01,2024-02-30,150000,Indonesa,sitiA@examplecom,loyal customer
+002,BUDI,-,Male,2020-05-10,2023-11-15,250.000,Indonesia,budi@@mail.com,NULL
+003,Agus,200,M,2019-07-21,2024-01-12,1.200.000,indo,agus@mail.com,sering complaint
+004,Wati wati,25,female,2020/08/01,null,-50000,Singapore,wati@mail,pembayaran bermasalah
+005,Andi,,M,2022-12-01,2023-14-01,"350,000",Indonesia,andi@@mail.com,
+006,Maya Putri,30,f,2023-01-05,2023-12-10,750000,Indonesia,maya.putri@mail.com,sering beli produk premium
+007,Dede,22,?,202x-02-01,2023-10-05,NaN,Malaysia,dede@mail_com,customer baru
+008,Joko#,28,M,2021-04-10,2023-06-18,900000,indonesia,Joko@mail.com,karakter khusus di nama
+009,Lina,19,FEMALE,2020/02/29,2023-09-12,0,Indonesia,lina@mail.com,tanggal join invalid
+010,Rina,24,F,2023-03-01,,400000,Indon,rina@mail,email tidak lengkap

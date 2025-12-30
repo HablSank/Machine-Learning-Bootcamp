@@ -1,0 +1,13 @@
+month,sales,marketing_spend,region
+Jan,120,20,North
+Feb,150,22,North
+Mar,170,25,South
+Apr,160,23,South
+May,180,26,East
+Jun,210,30,East
+Jul,240,35,West
+Aug,230,34,West
+Sep,200,28,North
+Oct,190,27,South
+Nov,175,24,East
+Dec,160,22,West

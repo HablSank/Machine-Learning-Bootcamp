@@ -1,0 +1,9 @@
+age,salary,education_level,years_experience,department,left_company
+23,3200,SMA,1,IT,0
+45,5400,S1,12,Finance,1
+31,4100,D3,5,HR,0
+52,7200,S2,20,IT,1
+27,3900,SMA,3,Marketing,0
+40,5000,S1,10,Finance,0
+36,4500,D3,7,HR,0
+48,6800,S2,18,Marketing,1

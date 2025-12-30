@@ -1,0 +1,11 @@
+timestamp,sensor_id,temperature,humidity,status,location,battery_voltage,active
+2024-01-01 10:00,sensor_A,29.5,80,OK,indor,12.3,true
+2024-01-01 10:05,sensor A,-5,82,ok,indoor,"12,8",TRUE
+2024-01-01 10:10,Sensor_B,NaN,120,error,outdor,-,False
+2024-13-01 10:15,sensor_B,31.2,85,OK,outdoor,13.2,false
+2024-01-01 XX:20,sensor_C,200,70,warning,indor,11.9,TRUE
+202x-01-01 10:25,sensor#C,,NaN,OK,indoor,14.1,
+2024-01-01 10:30,SENSOR_C,27.8,-10,ok,indoor,13.9,true
+2024/01/01 10:35,sensor_D,28.1,90,OK,indoorr,13.5,false
+2024-01-01 10:40,sensor-D,error,88,ok,outdoor,NaN,false
+,sensorE,25.9,75,OK,indoor,12.7,true
