@@ -4,7 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-## 👋 Halo, World!
+## Nak Meletup Laptop Niii 💥
 
 Repository ini berisi dokumentasi dan hasil kodingan saya, **Habl Sankrumi Pradhab** (SMK Negeri 1 Surabaya), selama mengikuti **Bootcamp Machine Learning Intensif selama 1 bulan**.
 
