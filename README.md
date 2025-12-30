@@ -62,7 +62,7 @@ Buat kamu yang mau coba run kodingan di laptop sendiri:
 
 1.  **Clone repo ini:**
     ```bash
-    git clone [https://github.com/HablSank/Machine-Learning-Bootcamp.git](https://github.com/HablSank/Machine-Learning-Bootcamp.git)
+    git clone https://github.com/HablSank/Machine-Learning-Bootcamp.git
     ```
 2.  **Install Library yang dibutuhkan:**
     Buka terminal dan jalankan:
